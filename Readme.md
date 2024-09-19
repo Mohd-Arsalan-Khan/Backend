@@ -1,7 +1,7 @@
-# Backend API for Youtube & Twitter
+# Backend Similar to Youtube & Twitter
 
 
-Welcome to the backend API for Youtube and Twitter, designed to support a dynamic platform with features similar to YouTube or Twitter. This robust API is built using Express and MongoDB, with additional support for image and video storage via Cloudinary.
+Welcome to the backend for Youtube and Twitter, designed to support a dynamic platform with features similar to YouTube or Twitter. This robust API is built using Express and MongoDB, with additional support for image and video storage via Cloudinary.
 
 # Features:
 
