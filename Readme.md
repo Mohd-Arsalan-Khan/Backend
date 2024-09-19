@@ -4,5 +4,5 @@ This project is a well-designed backend system that aims to work like platforms 
 
 # Special Thanks
 
-Hitesh Choudhary provided an excellent explanation.
+Hitesh Choudhary thanks for provided an excellent explanation.
 [Playlist Link](https://www.youtube.com/watch?v=EH3vGeqeIAo&list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW)
